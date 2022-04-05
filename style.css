@@ -1,0 +1,20 @@
+.search-heading{
+    text-align: center;
+}
+.search-bar-1{
+    border: 3px solid rgb(167, 167, 167);
+    border-radius: 0.5rem;
+}
+.img-button-style{
+    width: 2rem;
+}
+table{
+    background-color: rgb(214, 255, 255);
+}
+th{
+    text-align: center;
+    padding: 0.7rem;
+}
+.td-1-2{
+    text-align: center;
+}
